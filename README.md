@@ -81,12 +81,3 @@ The system can also create new face images by combining two faces with varying w
 
 ![Face Combination](images/convex-combo-50-and-70.png)
 *Convex combination of faces 50 and 70 with different weighting factors*
-
-## Creating the Images Directory
-
-To add your own visualization images to this README:
-
-```bash
-mkdir -p images
-# Copy your eigenfaces, projections, and other visualizations to this directory
-``` 
