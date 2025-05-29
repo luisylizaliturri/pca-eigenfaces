@@ -1,0 +1,13 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+
+# Large data files
+# Uncomment if you don't want to track the dataset
+# face_dataset.npy
+
+# OS specific files
+.DS_Store
